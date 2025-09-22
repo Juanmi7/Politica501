@@ -48,13 +48,48 @@ Puedes:
 - Ver tus estadísticas en cualquier momento
 - Dejar de usar la app cuando quieras
 - Contactarnos para dudas sobre tus datos
+- **Solicitar eliminación completa** de tu cuenta y datos
 
-## 7. Contacto
+## 7. Eliminación de cuenta y datos
+
+### Cómo solicitar la eliminación de tu cuenta
+
+Si deseas eliminar tu cuenta de **Darts 501 Liga**, sigue estos pasos:
+
+1. **Envía un email** desde cualquier dirección de correo
+2. **Incluye tu nombre de usuario** en la aplicación
+3. **Especifica claramente** que solicitas la eliminación completa de tu cuenta
+4. **Recibirás confirmación** una vez procesada tu solicitud (máximo 7 días)
+
+### Datos que se eliminan permanentemente
+- ✅ Información de cuenta (nombre de usuario, nombre real, contraseña)
+- ✅ Estadísticas personales (historial de partidas, promedios, records)
+- ✅ Participación en ligas (registros y resultados personales)
+- ✅ Estados de partida guardados y preferencias
+- ✅ Tokens de autenticación y sesiones activas
+
+### Datos que se conservan (anonimizados)
+Para mantener la integridad de las competiciones:
+- 📊 Resultados de partidas en ligas (sin vincular a tu identidad)
+- 🔧 Logs técnicos del sistema (sin datos personales)
+
+*Estos datos anonimizados no pueden usarse para identificarte.*
+
+### ⚠️ Importante
+- **La eliminación es irreversible** - No podrás recuperar tu cuenta ni datos
+- **Tiempo de procesamiento**: Máximo 30 días tras la confirmación
+- **Deberás crear nueva cuenta** si quieres volver a usar la aplicación
+
+### Email para eliminación de cuenta
+**Email**: juanmidev@outlook.com  
+**Asunto sugerido**: "Solicitud eliminación cuenta - [TU NOMBRE DE USUARIO]"
+
+## 8. Contacto
 
 Para preguntas sobre esta política:
 - **App**: Darts 501 Liga
 - **Desarrollador**: Juan Miguel Rengel Martin
-- **Email**: juanmi1371989@hotmail.com
+- **Email**: juanmidev@outlook.com
 
 ---
 
