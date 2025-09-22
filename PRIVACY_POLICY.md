@@ -1,4 +1,4 @@
-# Política de Privacidad - Darts 501 Liga
+# Política de Privacidad - 501 Dart League
 
 **Última actualización: 8 de septiembre de 2025**
 
@@ -54,7 +54,7 @@ Puedes:
 
 ### Cómo solicitar la eliminación de tu cuenta
 
-Si deseas eliminar tu cuenta de **Darts 501 Liga**, sigue estos pasos:
+Si deseas eliminar tu cuenta de **501 Dart League**, sigue estos pasos:
 
 1. **Envía un email** desde cualquier dirección de correo
 2. **Incluye tu nombre de usuario** en la aplicación
@@ -87,7 +87,7 @@ Para mantener la integridad de las competiciones:
 ## 8. Contacto
 
 Para preguntas sobre esta política:
-- **App**: Darts 501 Liga
+- **App**: 501 Dart League
 - **Desarrollador**: Juan Miguel Rengel Martin
 - **Email**: juanmidev@outlook.com
 
