@@ -1,6 +1,6 @@
 # Política de Privacidad - 501 Dart League
 
-**Última actualización: 8 de septiembre de 2025**
+**Última actualización: 23 de septiembre de 2025**
 
 ## 1. Información que recopilamos
 
@@ -19,15 +19,7 @@
 - **Autenticación QR**: Códigos temporales para acceso rápido en bares (no almacenan datos personales)
 - **Experiencia de usuario**: Mostrar tu progreso y estadísticas
 
-## 3. Lo que NO hacemos
-
-- ❌ **No pedimos email** ni datos de contacto
-- ❌ **No enviamos publicidad** ni promociones
-- ❌ **No compartimos datos** con terceros
-- ❌ **No usamos redes sociales** ni tracking
-- ❌ **No almacenamos fotos** ni videos de la cámara
-
-## 4. Uso de la cámara
+## 3. Uso de la cámara
 
 La cámara se utiliza **únicamente** para:
 - Escanear códigos QR de autenticación en bares
@@ -35,14 +27,14 @@ La cámara se utiliza **únicamente** para:
 - **No se capturan fotos**
 - **No se almacena contenido visual**
 
-## 5. Seguridad de datos
+## 4. Seguridad de datos
 
 - Conexión segura (HTTPS)
 - Datos almacenados en servidores protegidos
 - Tokens de sesión temporales (30 minutos máximo)
 - Sin datos bancarios ni pagos
 
-## 6. Derechos del usuario
+## 5. Derechos del usuario
 
 Puedes:
 - Ver tus estadísticas en cualquier momento
@@ -50,7 +42,7 @@ Puedes:
 - Contactarnos para dudas sobre tus datos
 - **Solicitar eliminación completa** de tu cuenta y datos
 
-## 7. Eliminación de cuenta y datos
+## 6. Eliminación de cuenta y datos
 
 ### Cómo solicitar la eliminación de tu cuenta
 
@@ -84,7 +76,7 @@ Para mantener la integridad de las competiciones:
 **Email**: juanmidev@outlook.com  
 **Asunto sugerido**: "Solicitud eliminación cuenta - [TU NOMBRE DE USUARIO]"
 
-## 8. Contacto
+## 7. Contacto
 
 Para preguntas sobre esta política:
 - **App**: 501 Dart League
